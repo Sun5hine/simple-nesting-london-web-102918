@@ -130,5 +130,5 @@ def adding_to_dennis
         }
      }
 dennis_ritchie[:dennis_ritchie][:languages][1] = "Assembly"
-
+programmer_hash
 end
